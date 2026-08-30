@@ -1,0 +1,40 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing & Scratch
+/coverage
+*.mp4
+*.wav
+*.mp3
+/demo_assets
+/demo_recordings
+/scripts
+test-start.js
+server.js
+dev.js
+DESIGN.md
+
+# Next.js build output
+/.next/
+/out/
+tsconfig.tsbuildinfo
+
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Local env files
+.env*.local
+.env
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
